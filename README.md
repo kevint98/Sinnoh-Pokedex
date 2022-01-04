@@ -6,4 +6,4 @@ It is in no way affiliated with Nintendo, Pokemon or any other related entities 
 
 The App was built with React and the React Router Library, and fetches data from an external API: PokeApi.
 
-Try out the live demo [Here](https://mysinnohdex.netlify.app/pokedex)
+Try out the live demo [Here](https://mysinnohdex.netlify.app/)
